@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sujithbayari/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sujithbayari/LeetCode/tree/master/0204-count-primes) |
 | [1480-running-sum-of-1d-array](https://github.com/sujithbayari/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/sujithbayari/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Math
 |  |
 | ------- |
@@ -52,4 +53,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sujithbayari/LeetCode/tree/master/0204-count-primes) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/sujithbayari/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+## Sorting
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/sujithbayari/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/sujithbayari/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
