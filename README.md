@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sujithbayari/LeetCode/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/sujithbayari/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/sujithbayari/LeetCode/tree/master/0507-perfect-number) |
+| [1903-largest-odd-number-in-string](https://github.com/sujithbayari/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sujithbayari/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sujithbayari/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/sujithbayari/LeetCode/tree/master/0412-fizz-buzz) |
+| [1903-largest-odd-number-in-string](https://github.com/sujithbayari/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/sujithbayari/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [1903-largest-odd-number-in-string](https://github.com/sujithbayari/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
