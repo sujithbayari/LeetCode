@@ -21,9 +21,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sujithbayari/LeetCode/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/sujithbayari/LeetCode/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/sujithbayari/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/sujithbayari/LeetCode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
