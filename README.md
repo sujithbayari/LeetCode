@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sujithbayari/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0189-rotate-array](https://github.com/sujithbayari/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sujithbayari/LeetCode/tree/master/0204-count-primes) |
 | [1480-running-sum-of-1d-array](https://github.com/sujithbayari/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sujithbayari/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/sujithbayari/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sujithbayari/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/sujithbayari/LeetCode/tree/master/0412-fizz-buzz) |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/sujithbayari/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sujithbayari/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
