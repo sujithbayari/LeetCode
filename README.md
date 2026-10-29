@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sujithbayari/LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/sujithbayari/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sujithbayari/LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/sujithbayari/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sujithbayari/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/sujithbayari/LeetCode/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/sujithbayari/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sujithbayari/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sujithbayari/LeetCode/tree/master/0412-fizz-buzz) |
 ## Prefix Sum
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sujithbayari/LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/sujithbayari/LeetCode/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
