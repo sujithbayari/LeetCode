@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sujithbayari/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/sujithbayari/LeetCode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/sujithbayari/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/sujithbayari/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/sujithbayari/LeetCode/tree/master/0412-fizz-buzz) |
 | [1903-largest-odd-number-in-string](https://github.com/sujithbayari/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -87,4 +88,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sujithbayari/LeetCode/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/sujithbayari/LeetCode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
