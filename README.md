@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sujithbayari/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sujithbayari/LeetCode/tree/master/0204-count-primes) |
 | [1480-running-sum-of-1d-array](https://github.com/sujithbayari/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/sujithbayari/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/sujithbayari/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Math
 |  |
