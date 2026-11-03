@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sujithbayari/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0189-rotate-array](https://github.com/sujithbayari/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sujithbayari/LeetCode/tree/master/0204-count-primes) |
+| [0283-move-zeroes](https://github.com/sujithbayari/LeetCode/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/sujithbayari/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sujithbayari/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/sujithbayari/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/sujithbayari/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/sujithbayari/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/sujithbayari/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sujithbayari/LeetCode/tree/master/0344-reverse-string) |
 ## String
 |  |
