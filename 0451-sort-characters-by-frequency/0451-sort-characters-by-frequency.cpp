@@ -12,7 +12,7 @@ public:
             bucket[it.second].append(it.second, it.first);
         
         for(int i=bucket.size()-1; i>=1; i--)
-            ans +=bucket[i];
+            ans += bucket[i];
 
         return ans;
     }
