@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sujithbayari/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/sujithbayari/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sujithbayari/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0169-majority-element](https://github.com/sujithbayari/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sujithbayari/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sujithbayari/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/sujithbayari/LeetCode/tree/master/0268-missing-number) |
@@ -84,12 +85,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sujithbayari/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sujithbayari/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/sujithbayari/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/sujithbayari/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sujithbayari/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/sujithbayari/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/sujithbayari/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Trie
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sujithbayari/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/sujithbayari/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/sujithbayari/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/sujithbayari/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/sujithbayari/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -123,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sujithbayari/LeetCode/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sujithbayari/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sujithbayari/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
