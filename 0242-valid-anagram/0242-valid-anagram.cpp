@@ -1,17 +1,20 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        multiset<char> s1, s2;
         if(s.size() != t.size())
             return false;
-        for(char cs : s)
+        
+        int freq[26] = {0};
+        for(int i=0; i<s.size(); i++)
         {
-            s1.insert(cs);
+            freq[s[i] - 'a']++;
+            freq[t[i] - 'a']--;
         }
-        for(char ct : t)
+        for(int i=0; i<26; i++)
         {
-            s2.insert(ct);
+            if(freq[i] != 0)
+                return false;
         }
-        return (s1 == s2);
+        return true;
     }
 };
