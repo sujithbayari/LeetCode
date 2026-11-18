@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sujithbayari/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/sujithbayari/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/sujithbayari/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/sujithbayari/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sujithbayari/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sujithbayari/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/sujithbayari/LeetCode/tree/master/0258-add-digits) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sujithbayari/LeetCode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/sujithbayari/LeetCode/tree/master/0070-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sujithbayari/LeetCode/tree/master/0141-linked-list-cycle) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sujithbayari/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
