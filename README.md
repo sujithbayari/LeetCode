@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sujithbayari/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/sujithbayari/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sujithbayari/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/sujithbayari/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sujithbayari/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sujithbayari/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sujithbayari/LeetCode/tree/master/0204-count-primes) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sujithbayari/LeetCode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/sujithbayari/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sujithbayari/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sujithbayari/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
