@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sujithbayari/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sujithbayari/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sujithbayari/LeetCode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/sujithbayari/LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/sujithbayari/LeetCode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/sujithbayari/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/sujithbayari/LeetCode/tree/master/0796-rotate-string) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sujithbayari/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/sujithbayari/LeetCode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/sujithbayari/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/sujithbayari/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Trie
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sujithbayari/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sujithbayari/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sujithbayari/LeetCode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/sujithbayari/LeetCode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sujithbayari/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/sujithbayari/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## String Matching
